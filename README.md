@@ -9,6 +9,6 @@ The classic Space Invaders 1978 was created by Tomohiro Nishikado and was releas
 # Features
 	1) The player can be moved left or right using the Left Arrow and Right Arrow keys.
 	2) The game has a background music
-	
+	3) By hitting SpaceBar key Player will shoot bullets and if bullet hit to enemy your score will increase
 # Gameplay ScreenShot
 <img width="590" alt="space_invader" src="https://user-images.githubusercontent.com/85550986/204198163-f17fc3c0-badd-4a24-b6d7-d0d203a25f3e.png">
